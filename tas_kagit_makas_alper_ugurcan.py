@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
-
 import random
 
 def tas_kagit_makas_alper_ugurcan():
@@ -85,10 +79,3 @@ def tas_kagit_makas_alper_ugurcan():
 
 if __name__ == "__main__":
     tas_kagit_makas_alper_ugurcan()
-
-
-# In[ ]:
-
-
-
-
